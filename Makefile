@@ -38,6 +38,7 @@ help:
 	@echo '   ftp_upload                       upload the web site via FTP        '
 	@echo '   s3_upload                        upload the web site via S3         '
 	@echo '   github                           upload the web site via gh-pages   '
+	@echo '   www                              deploy to lukasklein.com           '
 	@echo '                                                                       '
 
 
@@ -84,5 +85,8 @@ s3_upload: publish
 github: publish
 	ghp-import $(OUTPUTDIR)
 	git push origin gh-pages
+
+www:
+	git push prod master
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload github
