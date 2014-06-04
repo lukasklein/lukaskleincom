@@ -6,7 +6,7 @@ AUTHOR = u'Lukas Klein'
 SITENAME = u'Lukas Klein'
 SITEURL = 'https://lukasklein.com'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Berlin'
 
 DEFAULT_LANG = u'en'
 

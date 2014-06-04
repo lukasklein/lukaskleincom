@@ -66,5 +66,4 @@ It turns out that you first have to logout from the LAN gateway in order to open
 
 Thanks to some guys at the `Domoticaforum Europe <http://www.domoticaforum.eu/viewtopic.php?f=66&t=6654>`_ it's quite easy to read the response (and see that the firmware hasn't changed since 2011).
 
-
 To make a long story short, I wrote a little `Python library <https://github.com/lukasklein/maxcontrol>`_ to interact with the thermostats. Feel free to improve it and open a pull request :)
