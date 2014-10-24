@@ -24,14 +24,17 @@ Datasift - Reading, United Kingdom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 2012 — Intern
 
-I spent my August in Reading, developing some internal products for Datasift as
-an intern.
+During my time at DataSift one of the projects I have developed was a tool to track and analyse the impact of popular influencers on the sharing velocity of news articles in social media. I used the opportunity to dive deeper into realtime technologies such as Node.js, Redis, websockets and frontend visualisations using D3.js.
+
+`Related Blog Post`_
+
+.. _`Related Blog Post`: http://dev.datasift.com/blog/lukas-klein-internship-datasift
 
 SAP - Walldorf, Germany
 ~~~~~~~~~~~~~~~~~~~~~~~
 2012 — Intern
 
-In June I did a two week internship in SAP's IT Security and Risk Office.
+I used my time at SAP to familiarise with how such a huge organisation works and how workflows and processes in the IT security department work in practice. I was given the chance to get deeper insights into how ISO/IEC certifications work, how policies are designed and enforced and what a security audit for large-scale corporate applications looks like.
 
 Peppmedien - Bottrop, Germany
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
