@@ -3,7 +3,7 @@ About me
 
 :slug: about-me
 
-I'm Lukas, a developer and student based in the Ruhr Area in Germany.
+I'm Lukas, a developer and student based in Munster, Germany.
 
 Work Experience
 ---------------
@@ -15,7 +15,41 @@ Product Gang - Berlin, Germany
 Co-Founded the `Product Gang`_ to turn visionaries' great ideas into even
 better crafted and implemented products that are ready to go live or to pitch
 to investors. I focus on everything related to the actual development and
-server setup/administration.
+server setup / administration.
+
+Some of the projects we've done:
+
+**boilerroom.tv**
+
+We've managed their infrastructure as well as maintained their website. Some of
+the sub-projects include building a realtime chat system based on Firebase and
+social stream aggregators for special events. We are also responsible for their
+mobile apps (iOS and Android), of which the iOS one was featured worldwide in
+the Apple AppStore.
+
+**Media Management System**
+
+In compliance with Boiler Room's special needs, we have built a custom media
+management and -publishing system that allows them to transcode, serve and
+publish audio and video files. For the server infrastructure we incorporated
+Docker, Packer, Redis, RabbitMQ and the DigitalOcean API to create an
+auto-scaling system that scales with the files being transcoded.
+
+**Radio stations**
+
+We have built host dashboards for multiple German radio stations as well as
+a web- and mobile radio player for one of Germany's biggest radio stations.
+
+**Splash!Mag Moment of Truth**
+
+For the second year in a row we have built the voting system for Splash!Mag's
+Moment of Truth competition using Django.
+
+**Publishing network**
+
+We're responsible for the infrastructure of Germany's largest financial
+publishing network. In addition to maintaining existing software and servers,
+we are also building several microservices based on Python / Django and Docker.
 
 .. _`Product Gang`: http://productgang.com/
 
